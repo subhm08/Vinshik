@@ -5,8 +5,8 @@
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/subhm08/Vinshik
+   cd Vinshik
    ```
 
 2. **Install dependencies**
